@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mioclass&show_icons=true&title_color=55629f&icon_color=55629f&bg_color=000000&text_color=e2e2e4&hide_border=true"/>
+</p>
 
-<!--
-**mioclass/mioclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🧡 I'm Nikolay, also known as mio
+- 🧐 Find it interesting to explore and practice **UIX** design, programming and security
+- ✨ Presently skilled in **javascript/typescript**, **C/C++** and in the process of studying ASM, PHP and python
 
-Here are some ideas to get you started:
+### Socials
+- ![Telegram](https://telegram.org/img/favicon-16x16.png) **Telegram** ~ [mioclass](https://t.me/mioclass)
+- ![Discord](https://i.imgur.com/p4VEAVF.png) **Discord** ~ [mioclass](https://discord.com/users/964127663570694205)
+- ![Youtube](https://www.youtube.com/favicon.ico) **YouTube** ~ [mioclass](https://www.youtube.com/@cocoacommunity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- currently 0 :(
