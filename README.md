@@ -8,7 +8,6 @@
 - ✨ Presently skilled in **javascript/typescript**, **C/C++** and in the process of studying ASM, PHP and python
 
 ### Socials
-- ![Telegram](https://telegram.org/img/favicon-16x16.png) **Telegram** ~ [mioclass](https://t.me/mioclass)
 - ![Discord](https://i.imgur.com/p4VEAVF.png) **Discord** ~ [mioclass](https://discord.com/users/964127663570694205)
 - ![Youtube](https://www.youtube.com/favicon.ico) **YouTube** ~ [mioclass](https://www.youtube.com/@cocoacommunity)
 
